@@ -20,7 +20,10 @@ Focused on Web Development, Backend Systems, and Applied AI Integration
 An automation project in Python that creates full YouTube videos automatically.  
 
 ### [Memory Palace 3D](https://github.com/salmen6/memory_palace_3d)  
-A Flutter mobile app using panorama rooms and a room system for memorization.  
+A Flutter mobile app using panorama rooms and a room system for memorization. 
+
+### [Pdfit](https://github.com/salmen6/pdfit)  
+A linux tool that converts code projects into clean, shareable documents — PDF or Markdown.
 
 ---
 
